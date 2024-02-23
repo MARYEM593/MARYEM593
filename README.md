@@ -50,4 +50,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryem593&show_icons=true&locale=en" alt="maryem593" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maryem593&" alt="maryem593" /></p>
-  <p align="left" dir="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/1f12a1eac826a61961668d77e155303279d2f56a5d80ca2f0a8950bf9f7e0e12/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d72616269657a6f756974613131" alt="rabiezouita11" data-canonical-src="https://github-profile-trophy.vercel.app/?username=rabiezouita11" style="max-width: 100%;"></a> </p>
+  <p align="left" dir="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="" alt="" data-canonical-src="" style="max-width: 100%;"></a> </p>
