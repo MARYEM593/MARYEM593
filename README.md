@@ -499,7 +499,7 @@
     <p class="tagline">💼 Développeuse Web <span>@Medianet</span> · Front-End Soul ✨</p>
     <p class="desc">Transformer des idées complexes en interfaces élégantes et des architectures solides en expériences utilisateur mémorables.</p>
     <div class="socials">
-      <a class="social-btn" href="mailto:maryemzoughlami@gmail.com">📧 Gmail</a>
+      <a class="social-btn" href="/cdn-cgi/l/email-protection#771a16050e121a0d1802101f1b161a1e37101a161e1b5914181a">📧 Gmail</a>
       <a class="social-btn" href="https://linkedin.com/in/mariem-zoughlami">💼 LinkedIn</a>
       <a class="social-btn" href="https://github.com/MARYEM593">🐙 GitHub</a>
       <a class="social-btn" href="https://maryem593.github.io/MariemZoughlami.github.io/">🌐 Portfolio</a>
@@ -646,9 +646,4 @@
   <!-- FOOTER -->
   <footer class="footer">
     <p class="footer-quote">✦ Si vous êtes arrivé jusqu'ici, c'est peut-être que <span>mon profil mérite qu'on en discute !</span></p>
-    <p class="footer-wave">📍 Tunis, Tunisie · 📧 maryemzoughlami@gmail.com</p>
-  </footer>
-
-</div>
-</body>
-</html>
+    <p class="footer-wave">📍 Tunis, Tunisie · 📧 <a href="/cdn-cgi/
